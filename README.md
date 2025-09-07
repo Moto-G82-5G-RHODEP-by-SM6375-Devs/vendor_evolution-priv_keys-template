@@ -7,7 +7,7 @@ croot && git clone https://github.com/Evolution-X/vendor_evolution-priv_keys-tem
 ```
 
 ```bash
-cd vendor/evolution-priv/keys
+cd vendor/lineage-priv/keys
 ```
 
 ```
